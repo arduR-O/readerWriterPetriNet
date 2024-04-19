@@ -1,9 +1,9 @@
-#Reader-Writer Problem Simulation using Petri Nets
-##Introduction
+# Reader-Writer Problem Simulation using Petri Nets
+## Introduction
 Petri nets are designed to simulate systems with concurrent transitions.
 The reader-writer problem is a classic synchronization problem in computer science.
 This project simulates the reader-writer problem using a Petri net model.
-##Running the Simulation
+## Running the Simulation
 To run the simulation, follow these steps:
 
 1. Download the text file containing the Petri net model from this repository.
